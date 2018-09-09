@@ -1,0 +1,15 @@
+public abstract class GumballMachine
+	{
+		
+	    public int num_gumballs;
+	    public int coins_total;
+	    
+	
+	    public GumballMachine( int size )
+	    {
+	        // initialise instance variables
+	    	
+	        this.num_gumballs = size;
+	        this.coins_total=0;
+	    }
+	}
