@@ -19,9 +19,6 @@ public     TwoQuarterMachine(int numberGumballs)
             state.insertCoin();
     }
  
-    public void ejectCoin() {
-        state.ejectCoin();
-    }
  
     public void turnCrank() {
         if(this.total==50)
