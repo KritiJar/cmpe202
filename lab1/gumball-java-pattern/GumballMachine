@@ -37,7 +37,9 @@ State state = soldOutState;
     int getCount() {
         return count;
     }
- 
+    public void ejectCoin() {
+		  state.ejectCoin();
+	    }
     void refill(int count) {
         this.count = count;
         state = noCoinState;
