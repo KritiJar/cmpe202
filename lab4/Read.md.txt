@@ -1,0 +1,27 @@
+Observer pattern is used for designing the  'Din Tai Fung Design Patterns'
+
+CRC cards:
+
+Receptionist:   Adds customer to waitlist Collaborator: Customer
+		Checks the available table Collaborator Table
+		Notifies customer Collaboretor: Customer
+
+Customer: 	Provides Information
+		Replies to confirmation message
+		
+Table:		Checks the avaialble table 
+		Send information to receptionist Collaborator: Receptionist
+
+WaitList: 	Adds new Customer Collaborator: Customer
+		Removes customer Collaborator: Customer
+
+
+In observer pattern following classes play the roles:
+
+
+Waitlist: Concrete Subject
+Receptionist: Concrete Observer
+
+
+
+
