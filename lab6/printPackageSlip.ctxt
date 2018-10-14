@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=printPackageSlip
+comment1.params=burger\ fries
+comment1.target=void\ printdesc(Burger,\ Fries)
+numComments=2

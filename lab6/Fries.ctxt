@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Fries
+comment1.params=quantity
+comment1.target=void\ setQuantity(int)
+comment2.params=price
+comment2.target=void\ setPrice(float)
+comment3.params=fries
+comment3.target=void\ setFries(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getFries()
+comment5.params=
+comment5.target=float\ getPrice()
+comment6.params=
+comment6.target=int\ getQuantity()
+numComments=7

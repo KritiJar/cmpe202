@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Burger
+comment1.params=burger
+comment1.target=void\ setBurger(java.lang.String)
+comment2.params=quantity
+comment2.target=void\ setQuantity(int)
+comment3.params=price
+comment3.target=void\ setPrice(float)
+comment4.params=toppings
+comment4.target=void\ setToppings(java.lang.String[])
+comment5.params=
+comment5.target=java.lang.String\ getBurger()
+comment6.params=
+comment6.target=int\ getQuantity()
+comment7.params=
+comment7.target=float\ getPrice()
+comment8.params=
+comment8.target=java.lang.String[]\ getToppings()
+numComments=9
